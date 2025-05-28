@@ -10,7 +10,8 @@
 - Immersive sound design
 - Physics interactions
 
----
+![Illustration](Assets/exp.png "Game image")
+
 
 ## 🚀 Getting Started
 
