@@ -1,2 +1,0 @@
-
-Le travail en binome 
